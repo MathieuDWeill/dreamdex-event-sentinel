@@ -1,0 +1,18 @@
+[project]
+name = "dreamdex-event-sentinel"
+version = "1.0.0"
+description = "Autonomous Zero-Cost AI Trading Agent & Market Maker for DreamDEX Event Contracts on Somnia Network"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+dreamdex-sentinel = "dreamdex_sentinel.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
