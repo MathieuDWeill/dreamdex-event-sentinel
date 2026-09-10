@@ -1,0 +1,1 @@
+# dreamdex-event-sentinel\n\n## Product brief\n\nAutonomous zero-cost AI market maker and trading agent for Somnia DreamDEX Event Contracts\n
