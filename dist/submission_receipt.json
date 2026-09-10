@@ -1,0 +1,16 @@
+{
+  "opportunity_id": 10,
+  "submission_id": "NS-SUB-1789067173-5C2B88",
+  "status": "SUBMITTED",
+  "project_name": "dreamdex-event-sentinel",
+  "hackathon_title": "Event Contracts Hackathon (DoraHacks)",
+  "platform": "DoraHacks",
+  "submitted_at": "2026-09-10T19:06:13+00:00",
+  "candidate_zip": "/home/mathieu/Projects/nightshift/nightshift/workspace/projects/dreamdex-event-sentinel/dist/dreamdex-event-sentinel-submission.zip",
+  "sha256": "faecf731f1e4ac40262fed97ff2f098961986124188cf0cbcc3f689fe4ca5678",
+  "git_commit": "b79d49bb6e85c5008dcaef25a4ac8c7f886840c4",
+  "tests_passed": true,
+  "mode": "direct_submission",
+  "dispatch_log": "Autonomous submission bundle successfully registered and verified.",
+  "verified_autonomous": true
+}

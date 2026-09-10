@@ -1,0 +1,11 @@
+{
+  "opportunity_id": 10,
+  "hackathon_title": "Event Contracts Hackathon (DoraHacks)",
+  "project_name": "dreamdex-event-sentinel",
+  "tagline": "Autonomous high-performance solution for Event Contracts Hackathon (DoraHacks)",
+  "repository_path": "/home/mathieu/Projects/nightshift/nightshift/workspace/projects/dreamdex-event-sentinel",
+  "candidate_zip": "/home/mathieu/Projects/nightshift/nightshift/workspace/projects/dreamdex-event-sentinel/dist/dreamdex-event-sentinel-submission.zip",
+  "readme_path": "/home/mathieu/Projects/nightshift/nightshift/workspace/projects/dreamdex-event-sentinel/README.md",
+  "packaged_at": "2026-09-10T19:06:13+00:00",
+  "ready_for_submission": true
+}
